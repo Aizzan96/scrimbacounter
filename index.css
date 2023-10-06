@@ -1,0 +1,44 @@
+body {
+    background-image: url("beach.jpg");
+    background-size: cover;
+    font-family:'Segoe UI', -apple-system, BlinkMacSystemFont,  Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    width: 150px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    
+}
+
+#increment-btn {
+    color: #FFA833;
+    -webkit-text-stroke: 1px black;
+    background: #329da8 ;
+   
+}
+
+#save-btn {
+    color: yellow;
+     -webkit-text-stroke: 1px black;
+    background: greenyellow;
+    
+}
+
